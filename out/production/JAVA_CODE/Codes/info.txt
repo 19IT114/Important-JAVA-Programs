@@ -1,0 +1,4 @@
+19it114,Virag Patel,IT-CAHRUSAT
+19it059,Shrey Makwana,IT-CAHRUSAT
+19ce114,Mohit Prajapati,CE-CAHRUSAT
+19dit028,Aarjav Gandhi,DIT-CAHRUSAT
